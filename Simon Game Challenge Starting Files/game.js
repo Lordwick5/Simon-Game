@@ -2,7 +2,7 @@ var gamePattern = [];
 
 var buttonColours = ["red", "blue", "green", "yellow"];
 
-var 
+var userChosenColour = [];
 
 $(".btn").click(function() {
 
